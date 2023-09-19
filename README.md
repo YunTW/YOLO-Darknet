@@ -28,9 +28,9 @@
 
 ## Folder
 
-- cfg: 模型參數 (ex: .cfg)
-- data: 訓練時的資料集檔案 (ex: .data, .name)
-- weights: 訓練後的模型權重檔案 (ex: .weights)
+- cfg: [yolov4.cfg](https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov4.cfg)
+- data: [coco.data](https://github.com/AlexeyAB/darknet/blob/master/cfg/coco.data), [coco.names](https://github.com/AlexeyAB/darknet/blob/master/cfg/coco.names)
+- weights: [yolov4.weights]()
 - yolo: [YOLOv4 Darknet](https://github.com/AlexeyAB/darknet) 編譯過的函式庫
 
 ## Usage

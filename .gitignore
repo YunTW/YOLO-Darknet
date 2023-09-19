@@ -1,6 +1,2 @@
 .vscode/
 __pycache__/
-*.cfg
-*.data
-*.names
-*.weights
