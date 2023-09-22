@@ -9,8 +9,10 @@ fps = 0
 
 # Parameters
 cfg_file = "cfg/yolov4.cfg"  # 模型配置
+# cfg_file = "cfg/yolov4-tiny.cfg"  # 模型配置 (faster)
 data_file = "data/coco.data"  # 資料集路徑
 weight_file = "weights/yolov4.weights"  # 權重
+# weight_file = "weights/yolov4-tiny.weights"  # 權重 (faster)
 thre = 0.25
 show_coordinates = True
 
