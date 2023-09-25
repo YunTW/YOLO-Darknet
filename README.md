@@ -1,13 +1,24 @@
 # YOLOv4 Darknet Real-Time Object Detection
 
-YOLOv4 — the most accurate real-time neural network on MS COCO dataset.
+![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 
 ![Object Detection](https://miro.medium.com/v2/resize:fit:2792/format:webp/1*Co8xD0IWPaBiWr-Xfu38dw.jpeg)
+:link: [YOLOv4 — the most accurate real-time neural network on MS COCO dataset.](https://alexeyab84.medium.com/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe)
 
 本專案使用兩個方法來實現 YOLO 物件偵測。
 
 1. Darknet 原作者寫的 python API
 2. OpenCV DNN Module
+
+## Table of content
+
+- [YOLOv4 Darknet Real-Time Object Detection](#yolov4-darknet-real-time-object-detection)
+  - [Table of content](#table-of-content)
+  - [Requirement](#requirement)
+  - [Installation](#installation)
+  - [Folder](#folder)
+  - [Usage](#usage)
+  - [Contact](#contact)
 
 ## Requirement
 
@@ -15,7 +26,7 @@ YOLOv4 — the most accurate real-time neural network on MS COCO dataset.
 - CUDA Toolkit 11.0.3
 - cuDNN v8.0.5
 
-## Installed
+## Installation
 
 - Numpy
   
@@ -75,4 +86,4 @@ YOLOv4 — the most accurate real-time neural network on MS COCO dataset.
 
 ## Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](terrell60813@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuntw/)
+[![Github](https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white)](https://github.com/YunTW) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuntw/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](terrell60813@gmail.com)
