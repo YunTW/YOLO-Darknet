@@ -1,6 +1,6 @@
 # YOLOv4 Darknet Real-Time Object Detection
 
-![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/Opencv-5C3EE8.svg?logo=Opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF.svg?logo=YOLO&logoColor=black)
 
 ![Object Detection](https://miro.medium.com/v2/resize:fit:2792/format:webp/1*Co8xD0IWPaBiWr-Xfu38dw.jpeg)
 :link: [YOLOv4 — the most accurate real-time neural network on MS COCO dataset.](https://alexeyab84.medium.com/yolov4-the-most-accurate-real-time-neural-network-on-ms-coco-dataset-73adfd3602fe)
